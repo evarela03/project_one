@@ -1,3 +1,25 @@
 body{
-    background-color: green;
+    background-color: lightseagreen
+}
+
+.nav-link{
+    font-weight: lighter;
+}
+
+.nav-link:hover{
+    font-weight:bolder;
+    background-color: #eee;
+}
+header{
+    height:700px;
+    width:100%;
+    background-image:url("niffler.jpg");
+    background-size:cover;
+    text-align:center;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+header p{
+    font-style: italic;
 }
